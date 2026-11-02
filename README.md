@@ -78,8 +78,8 @@ A high-performance, scalable e-commerce platform built with TypeScript, designed
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-NotAqua&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NotAqua&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-NotAqua&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NotAqua&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <br />
@@ -87,11 +87,9 @@ A high-performance, scalable e-commerce platform built with TypeScript, designed
 ## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-NotAqua/Dev-NotAqua/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-NotAqua/Dev-NotAqua/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-NotAqua/Dev-NotAqua/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/Dev-NotAqua">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-NotAqua&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=58a6ff&amp;hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
 </div>
 
 <br />
