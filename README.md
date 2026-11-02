@@ -75,11 +75,12 @@ A high-performance, scalable e-commerce platform built with TypeScript, designed
 
 <br />
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-NotAqua&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NotAqua&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Dev-NotAqua">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-NotAqua&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=58a6ff&amp;hide_border=true" alt="Contribution Graph" width="100%" />
+  </a>
 </div>
 
 <br />
