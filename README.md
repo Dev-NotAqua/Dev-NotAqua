@@ -28,16 +28,13 @@
   </a>
 </div>
 
----
+<br />
 
-## 🚀 Profilo
+<div align="center">
+  <p><i>"Building scalable applications and writing secure code, one commit at a time."</i></p>
+</div>
 
-Developer appassionato di **applicazioni scalabili**, **codice sicuro** e progetti open source.  
-Qui sotto trovi attività, statistiche e stack principale.
-
----
-
-## 🧰 Tech Stack
+<br />
 
 <div align="center">
   <img
@@ -46,64 +43,49 @@ Qui sotto trovi attività, statistiche e stack principale.
   />
 </div>
 
----
-
-## 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cerbiss&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=58a6ff&rank_icon=github"
-    alt="Statistiche GitHub di cerbiss"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerbiss&layout=compact&langs_count=8&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=58a6ff"
-    alt="Linguaggi più usati da cerbiss"
-    height="170"
-  />
+  <a href="https://github.com/cerbiss">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=cerbiss&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=58a6ff&rank_icon=github"
+      alt="Statistiche GitHub di cerbiss"
+      height="170"
+    />
+  </a>
+  <a href="https://github.com/cerbiss">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cerbiss&layout=compact&langs_count=8&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=58a6ff"
+      alt="Linguaggi più usati da cerbiss"
+      height="170"
+    />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=cerbiss&theme=react&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
-    alt="Streak GitHub di cerbiss"
-    width="100%"
-  />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
   <a href="https://github.com/cerbiss">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cerbiss&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true&area=true"
-      alt="Grafico attività di contribuzione di cerbiss"
+      src="https://streak-stats.demolab.com?user=cerbiss&theme=react&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+      alt="Streak GitHub di cerbiss"
       width="100%"
     />
   </a>
 </div>
 
----
-
-## 🏆 Trophy
+<br />
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cerbiss&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"
-    alt="Trofei GitHub di cerbiss"
-    width="100%"
-  />
+  <a href="https://github.com/cerbiss?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore_my_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff"
+      alt="Repository di cerbiss"
+    />
+  </a>
 </div>
 
----
-
-<div align="center">
-  <p><i>"Building scalable applications and writing secure code, one commit at a time."</i></p>
-</div>
+<br /><br />
 
 <div align="center">
   <img
